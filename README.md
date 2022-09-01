@@ -1,0 +1,2 @@
+# GitDeploy
+deploy analyticdbi
